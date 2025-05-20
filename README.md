@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # kubernetes
-=======
+=========
 # 🌩️ Cloud-Native Monitoring App
 
 A **cloud-native monitoring application** built with Flask, Dockerized for portability, and deployed using **Amazon EKS (Elastic Kubernetes Service)**. The app helps track system-level metrics (CPU, memory usage) and demonstrates best practices in DevOps automation, CI/CD, and container orchestration.
